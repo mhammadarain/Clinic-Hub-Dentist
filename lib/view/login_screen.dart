@@ -6,7 +6,7 @@ import 'package:responsive_builder/responsive_builder.dart';
 import '../components/custom_button.dart';
 import '../components/custom_textfield.dart';
 import '../constants/app_images.dart';
-import 'login_controller.dart';
+import '../controllers/login_controller.dart';
 
 
 class LoginScreen extends StatelessWidget {
